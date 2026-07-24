@@ -8,18 +8,19 @@ console.log(`Random Number for Today: ${randomizer(1, 50)}`);
  */
 import { twoSum } from "./src/twoSum.js";
 
-console.log("==================================================")
+console.log("==================================================");
 
-let array = [2,3,4,5]
-console.log(twoSum(array, 9))
+let array = [2, 3, 4, 5];
+console.log(twoSum(array, 9));
 
-console.log("==================================================")
+console.log("==================================================");
 
-/**
- * Ridho Contrisha
+/*
+ * Alfan Nurfaiz
  */
-import { firstUnique } from "./src/firstUnique.js";
+import { sumOfUnique } from "./src/sumOfUnique.js";
 
+<<<<<<< HEAD
 console.log("==================================================")
 
 console.log(firstUnique('aabbcddee'));
@@ -37,3 +38,8 @@ import jewels from "./src/logicCarlos.js"
 console.log("=================================================================")
 console.log(`Jewels: ${jewels("aA", "AAAaaaa")}`)
 console.log("=================================================================")
+=======
+console.log("==================================================");
+console.log(sumOfUnique([1, 2, 3, 4, 5]));
+console.log("==================================================");
+>>>>>>> a
