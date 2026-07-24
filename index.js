@@ -8,43 +8,58 @@ console.log(`Random Number for Today: ${randomizer(1, 50)}`);
  */
 import { twoSum } from "./src/twoSum.js";
 
-console.log("==================================================")
+console.log("==================================================");
 
-let array = [2,3,4,5]
-console.log(twoSum(array, 9))
+let array = [2, 3, 4, 5];
+console.log(twoSum(array, 9));
 
-console.log("==================================================")
+console.log("==================================================");
 
 /**
  * Ridho Contrisha
  */
 import { firstUnique } from "./src/firstUnique.js";
 
-console.log("==================================================")
+console.log("==================================================");
 
-console.log(firstUnique('aabbcddee'));
-console.log(firstUnique('aabbccdd'));
-console.log(firstUnique('javascript'));
+console.log(firstUnique("aabbcddee"));
+console.log(firstUnique("aabbccdd"));
+console.log(firstUnique("javascript"));
 
-console.log("==================================================")
+console.log("==================================================");
 
 /**
  * Carlos Nainggolan
  */
 
-import jewels from "./src/logicCarlos.js"
+import jewels from "./src/logicCarlos.js";
 
-console.log("=================================================================")
-console.log(`Jewels: ${jewels("aA", "AAAaaaa")}`)
-console.log("=================================================================")
+console.log(
+  "=================================================================",
+);
+console.log(`Jewels: ${jewels("aA", "AAAaaaa")}`);
+console.log(
+  "=================================================================",
+);
 
 /**
  * Nico Fernando Hondo
  */
 
-import mostFrequent from './src/mostFrequentNumber.js';
+import mostFrequent from "./src/mostFrequentNumber.js";
 
-console.log("===================================================")
+console.log("===================================================");
 
 mostFrequent();
-console.log("===================================================")
+console.log("===================================================");
+
+/**
+ * Rama Lana  K
+ */
+
+import removeDuplicates from "./src/remove.js";
+
+console.log("===================================================");
+
+removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]);
+console.log("===================================================");
