@@ -35,7 +35,7 @@ console.log("==================================================")
 import jewels from "./src/logicCarlos.js"
 
 console.log("=================================================================")
-console.log(`Jewels: ${jewels("aA", "AAAaaaa")}`);
+console.log(`Jewels: ${jewels("aA", "AAAaaaa")}`)
 console.log("=================================================================")
 
 /**
