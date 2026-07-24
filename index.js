@@ -79,3 +79,19 @@ console.log("===================================================");
 
 removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]);
 console.log("===================================================");
+
+/** 
+* NANDO DELKAFRIYO
+ */
+
+//import
+import mostActiveUser from "./src/mostactiveuser.js";
+console.log("================================================");
+// menjalankan fungsi
+try {
+  const action = ["bob", "calice", "bob", "calice", "steve", "ed"];
+  mostActiveUser(action);
+} catch (error) {
+  console.log(error);
+}
+console.log("================================================");
