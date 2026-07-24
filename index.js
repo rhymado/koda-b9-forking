@@ -58,3 +58,24 @@ import sumOfUnique from './src/sumOfUnique.js';
 console.log("===================================================")
 console.log(sumOfUnique([1,2,3,4,5]))
 console.log("===================================================")
+
+/**
+ * Alfan Nurfaiz
+ */
+
+import sumOfUnique from './src/sumOfUnique.js';
+
+console.log("===================================================")
+console.log(sumOfUnique([1,2,3,4,5]))
+console.log("===================================================")
+
+/**
+ * Rama Lana  K
+ */
+
+import removeDuplicates from "./src/remove.js";
+
+console.log("===================================================");
+
+removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]);
+console.log("===================================================");
