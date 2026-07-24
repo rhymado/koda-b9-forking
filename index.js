@@ -50,6 +50,26 @@ mostFrequent();
 console.log("===================================================")
 
 /**
+ * Alfan Nurfaiz
+ */
+
+import sumOfUnique from './src/sumOfUnique.js';
+
+console.log("===================================================")
+console.log(sumOfUnique([1,2,3,4,5]))
+console.log("===================================================")
+
+/**
+ * Alfan Nurfaiz
+ */
+
+import sumOfUnique from './src/sumOfUnique.js';
+
+console.log("===================================================")
+console.log(sumOfUnique([1,2,3,4,5]))
+console.log("===================================================")
+
+/**
  * Rama Lana  K
  */
 
